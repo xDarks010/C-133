@@ -1,0 +1,71 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+#Bed{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Tv{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Desk{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Bottle{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#FruitBasket{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#status{
+    margin-right: 500px;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects, #start_model
+{
+font-size: 18px;
+}
+
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
